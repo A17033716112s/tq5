@@ -18,9 +18,9 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 Good morning, boss今天是：{{date.DATA}}
 
                  {{region.DATA}}的天气如下
-天气：{{weather.DATA}} 气温：{{temp.DATA}}  风向：{{wind_dir.DATA}} 
+[天气：{{weather.DATA}}] [气温：{{temp.DATA}}] [风向：{{wind_dir.DATA}}] 
 
-记得少看手机！记得少看手机！记得少看手机！
+记得少看手机！少看手机！少看手机！
 接口运行时间第{{love_day.DATA}}天
 
 🎂：{{birthday1.DATA}}
