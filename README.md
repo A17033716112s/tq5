@@ -16,9 +16,10 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 模板内容如下：
 {{date.DATA}} 
-地区：{{region.DATA}} 天气：{{weather.DATA}} 气温：{{temp.DATA}}  风向：{{wind_dir.DATA}} 
+地区：{{region.DATA}} 天气：{{weather.DATA}} 
+气温：{{temp.DATA}}  风向：{{wind_dir.DATA}} 
 
-接口上线时间{{love_day.DATA}}天
+接口运行时间第{{love_day.DATA}}天
 
 🎂：{{birthday1.DATA}}
 {{birthday2.DATA}}
