@@ -19,14 +19,13 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 {{date.DATA}} 
 
 地区：{{region.DATA}} 天气：{{weather.DATA}} 气温：{{temp.DATA}}  风向：{{wind_dir.DATA}} 
+最低气温：{{min_temperature.DATA}} 最高气温：{{max_temperature.DATA}}
 
-接口上线时间{{love_day.DATA}}天 
+
+接口上线时间{{love_day.DATA}}天
 
 {{birthday1.DATA}} 
-
 {{birthday2.DATA}}
-
-
 {{note_en.DATA}} 
 {{note_ch.DATA}}
 
