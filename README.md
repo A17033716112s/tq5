@@ -20,9 +20,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 地区：{{region.DATA}} 天气：{{weather.DATA}} 气温：{{temp.DATA}}  风向：{{wind_dir.DATA}} 
 
-最低气温：{{feelsLike.DATA}} 最高气温：{{temp_Max}}
-
-数据观测时间：{{obs—Time.DATA}}
+数据观测时间：{{obs_Time.DATA}}
 
 
 接口上线时间{{love_day.DATA}}天
